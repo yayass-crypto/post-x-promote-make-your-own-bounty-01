@@ -27,7 +27,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 // this program was written: the post quotes make.fun's post, carries a photo
 // of its own, and its text carries @makefunai plus the play code.
 const QUOTED_POST_URL = 'https://x.com/makefunai/status/2124915864336236646';
-const PLAY_CODE = 'makefun-caramel-iceberg-spaniel';
+const PLAY_CODE = 'makefun-antler-hiker-rocket';
 const PHOTO_ATTACHED = true;
 
 const POST_URL_PATTERN =
